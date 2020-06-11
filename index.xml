@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<manialink version="3">
+   <label pos="0 65" halign="center" valign="center" text="SPEEDBALL LEAGUE MAPLIST 0.1" />
+   <quad size="64 36" pos="-96 40" halign="center" image="./maplist/aeon.jpg" />
+   <label pos="-96 4" halign="center" text="aeon" />
+   <quad size="64 36" pos="-32 40" halign="center" image="./maplist/babylon.jpg" />
+   <label pos="-32 4" halign="center" text="babylon" />
+   <quad size="64 36" pos="32 40" halign="center" image="./maplist/devota.jpg" />
+   <label pos="32 4" halign="center" text="devota" />
+   <quad size="64 36" pos="96 40" halign="center" image="./maplist/elysium.jpg" />
+   <label pos="96 4" halign="center" text="elysium" />
+
+   <quad size="64 36" pos="-96 0" halign="center" image="./maplist/kalypso.jpg" />
+   <label pos="-96 -36" halign="center" text="kalypso" />
+   <quad size="64 36" pos="-32 0" halign="center" image="./maplist/klymaxx.jpg" />
+   <label pos="-32 -36" halign="center" text="klymaxx" />
+   <quad size="64 36" pos="32 0" halign="center" image="./maplist/kubota.jpg" />
+   <label pos="32 -36" halign="center" text="kubota" />
+   <quad size="64 36" pos="96 0" halign="center" image="./maplist/lucid.jpg" />
+   <label pos="96 -36" halign="center" text="lucid" />
+
+   <quad size="64 36" pos="-96 -40" halign="center" image="./maplist/mythology.jpg" />
+   <label pos="-96 -76" halign="center" text="mythology" />
+   <quad size="64 36" pos="-32 -40" halign="center" image="./maplist/nanavector7.jpg" />
+   <label pos="-32 -76" halign="center" text="nanavector7" />
+   <quad size="64 36" pos="32 -40" halign="center" image="./maplist/slide.jpg" />
+   <label pos="32 -76" halign="center" text="slide" />
+   <quad size="64 36" pos="96 -40" halign="center" image="./maplist/Xibalbá.jpg" />
+   <label pos="96 -76" halign="center" text="Xibalbá" />
+</manialink>
